@@ -12,13 +12,13 @@ El repositorio está organizado para facilitar la comprensión y navegación de 
 
 proyecto_2_consultas_sql/
 
-├── README2.md # Descripción general del proyecto y documentación
-
 ├── Enunciado Data Project_SQL.Lógica.pdf # Documento original con todos los ejercicios
 
 ├── Esquema Entidad Relación Proyecto 2.png # Diagrama de la base de datos
 
 ├── Proyecto2.sql # Archivo principal con las 64 consultas resueltas y comentadas
+
+├── README.md # Descripción general del proyecto y documentación
 
 ---
 
