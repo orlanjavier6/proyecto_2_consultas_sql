@@ -26,17 +26,17 @@ proyecto_2_consultas_sql/
 - **PostgreSQL / SQL** → Lenguaje principal para la extracción y manipulación de datos.
 - **DBeaver / pgAdmin** → Entorno de desarrollo para ejecutar y testear las consultas.
 - **Funciones utilizadas:**
-    - **Agregación:** COUNT, SUM, AVG, MIN, MAX, STDDEV, VARIANCE.
-    - **Manipulación de Texto y Fechas:** CONCAT, EXTRACT, TO_CHAR.
-    - **Joins:** `INNER JOIN`, LEFT JOIN, RIGHT JOIN, FULL JOIN, CROSS JOIN.
-    - **Lógica Avanzada:** `CASE`, Subconsultas, `HAVING`, Vistas y Tablas Temporales.
+    - **Agregación:** `COUNT`, `SUM`, `AVG`, `MIN`, `MAX`, `STDDEV`, `VARIANCE`.
+    - **Manipulación de Texto y Fechas:** `CONCAT`, `EXTRACT`, `TO_CHAR`.
+    - **Joins:** `INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN`, `FULL JOIN`, `CROSS JOIN`.
+    - **Lógica Avanzada:** `NOT IN`, Subconsultas, `HAVING`, Vistas y Tablas Temporales.
 
 ---
 
 ## Proceso Metodológico de Desarrollo y Apoyo
 1. **Análisis del Esquema:** Comprensión de las relaciones entre las 15 tablas (identificación de Primary Keys y Foreign Keys).
 2. **Consultas Exploratorias:** Filtrado de datos básicos y ordenamiento para entender la distribución de la información.
-3. **Consultas Multitabla:** Uso de 'JOINs' para conectar clientes con alquileres, actores con películas, inventarios con tiendas, etc.
+3. **Consultas Multitabla:** Uso de `JOINs` para conectar clientes con alquileres, actores con películas, inventarios con tiendas, etc.
 4. **Resolución de Problemas Complejos:** Implementación de lógica de negación ('NOT IN'), filtros de fechas dinámicos, métricas de rendimiento, entre otras.
 
 ***
@@ -58,9 +58,9 @@ proyecto_2_consultas_sql/
 
 ## Habilidades Demostradas
 
-- **Optimización de Consultas:** Uso eficiente de 'DISTINCT' y filtros previos a la agregación.
+- **Optimización de Consultas:** Uso eficiente de `DISTINCT` y filtros previos a la agregación.
 - **Manejo de Tiempos:** Cálculo de intervalos (días de alquiler) y extracción de partes de fechas.
-- **Creación de Estructuras:** Generación de **Vistas** ('CREATE VIEW') y **Tablas Temporales** ('CREATE TEMPORARY TABLE') para almacenamiento intermedio de datos.
+- **Creación de Estructuras:** Generación de **Vistas** (`CREATE VIEW`) y **Tablas Temporales** (`CREATE TEMPORARY TABLE`) para almacenamiento intermedio de datos.
 - **Subconsultas Correlacionadas:** Uso de resultados de una consulta (ej. fecha de primer alquiler) como filtro para una consulta principal.
 
 ---
