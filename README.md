@@ -45,8 +45,6 @@ proyecto_2_consultas_sql/
 
 ***
 
----
-
 ## Resultados y Conclusiones
 
 - **Total de consultas resueltas:** **64 ejercicios** prácticos de negocio.
