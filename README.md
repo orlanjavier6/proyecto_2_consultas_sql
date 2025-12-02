@@ -41,7 +41,7 @@ proyecto_2_consultas_sql/
 
 ***
 
-**Nota sobre el proyecto:** Dado que este es un proceso de aprendizaje donde se está adquiriendo la lógica básica, se utilizó apoyo de una IA para clarificar y explicar las consultas más complejas. Esto aseguró la comprensión del código y permitió completar el proyecto con el rigor analítico requerido.
+**Nota sobre el proyecto:** Dado que este es un proceso de aprendizaje donde se está adquiriendo la lógica básica, se utilizó apoyo de una IA para clarificar y desarrollar las consultas más complejas. Esto aseguró la comprensión del código y permitió completar el proyecto con el rigor analítico requerido.
 
 ***
 
