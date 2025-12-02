@@ -37,7 +37,7 @@ proyecto_2_consultas_sql/
 1. **Análisis del Esquema:** Comprensión de las relaciones entre las 15 tablas (identificación de Primary Keys y Foreign Keys).
 2. **Consultas Exploratorias:** Filtrado de datos básicos y ordenamiento para entender la distribución de la información.
 3. **Consultas Multitabla:** Uso de `JOINs` para conectar clientes con alquileres, actores con películas, inventarios con tiendas, etc.
-4. **Resolución de Problemas Complejos:** Implementación de lógica de negación ('NOT IN'), filtros de fechas dinámicos, métricas de rendimiento, entre otras.
+4. **Resolución de Problemas Complejos:** Implementación de lógica de negación (`NOT IN`), filtros de fechas dinámicos, métricas de rendimiento, entre otras.
 
 ***
 
