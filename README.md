@@ -84,7 +84,16 @@ Las contribuciones y sugerencias son bienvenidas.
 Si detectas alguna optimización posible en las consultas, puedes abrir una *issue* o un *pull request*.
 
 ---
+## Actualizaciones y control de versiones
+- **Diciembre 2025:** Proyecto revisado y actualizado para optimizar tipos de datos y lógica de exclusión en consultas complejas (Corrección de ejercicios 3, 6, 8, 9, 11, 14, 15, 25, 35 y 56).
+  
+---
+## Autor
+...
+
+---
 
 ## Autor
 **[Orlan Javier Parra Parra]**
+
 [@orlanjavier6](https://github.com/orlanjavier6)
