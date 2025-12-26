@@ -16,6 +16,8 @@ proyecto_2_consultas_sql/
 
 ├── Esquema Entidad Relación Proyecto 2.png # Diagrama de la base de datos
 
+├── Proyecto2 - Correciones.sql # Archivo corregido con los comentarios del profe y las 64 consultas resueltas y comentadas
+
 ├── Proyecto2.sql # Archivo principal con las 64 consultas resueltas y comentadas
 
 ├── README.md # Descripción general del proyecto y documentación
@@ -85,15 +87,12 @@ Si detectas alguna optimización posible en las consultas, puedes abrir una *iss
 
 ---
 ## Actualizaciones y control de versiones
-- **Diciembre 2025:** Proyecto revisado y actualizado para optimizar tipos de datos y lógica de exclusión en consultas complejas (Corrección de ejercicios 3, 6, 8, 9, 11, 14, 15, 25, 35 y 56).
+- **Diciembre 2025:** Proyecto revisado y actualizado en archivo Proyecto2 - Correcciones.sql para optimizar tipos de datos y lógica de exclusión en consultas complejas (Corrección de ejercicios 3, 6, 8, 9, 11, 14, 15, 25, 35 y 56).
   
----
-## Autor
-...
-
 ---
 
 ## Autor
 **[Orlan Javier Parra Parra]**
 
 [@orlanjavier6](https://github.com/orlanjavier6)
+
